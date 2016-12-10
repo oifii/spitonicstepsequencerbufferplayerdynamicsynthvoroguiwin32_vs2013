@@ -1,0 +1,3 @@
+D:\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spitonicstepsequencerbufferplayerdynamicsynthvoroguiwin32_vs2013\BD (1).wav
+D:\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spitonicstepsequencerbufferplayerdynamicsynthvoroguiwin32_vs2013\Debug\BD (1).wav
+D:\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spitonicstepsequencerbufferplayerdynamicsynthvoroguiwin32_vs2013\Release\BD (1).wav

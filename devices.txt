@@ -1,0 +1,13 @@
+id=0, name=Microsoft Sound Mapper - Input
+id=1, name=Wave (E-MU E-DSP Audio Processo
+id=2, name=Microsoft Sound Mapper - Output
+id=3, name=Speakers (E-MU E-DSP Audio Proc
+id=4, name=Primary Sound Capture Driver
+id=5, name=Wave (E-MU E-DSP Audio Processor (WDM))
+id=6, name=Primary Sound Driver
+id=7, name=Speakers (E-MU E-DSP Audio Processor (WDM))
+id=8, name=E-MU ASIO
+id=9, name=JackRouter
+id=10, name=Speakers (E-MU E-DSP Audio Processor (WDM))
+id=11, name=Wave (E-MU E-DSP Audio Processor (WDM))
+id=12, name=E-DSP Wave [FFC0]
